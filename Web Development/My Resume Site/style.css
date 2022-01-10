@@ -1,0 +1,57 @@
+h1{
+    font-weight: bolder;
+    position: relative;
+    margin-top: 10%;
+    font-size: 600%;
+    color: #FFCDDD;
+    text-align: center;
+    font-family: "Sacramento";
+}
+h1:hover{
+    font-size: 800%;
+    color: black;
+    text-decoration: underline;
+}
+hr{
+    border: dotted;
+    border-top-width: o;
+    border-bottom-width: 11px;
+    border-color: #B762C1;
+   
+    border-top-width: 0ch;
+    width:10%;
+    
+}
+.me{
+    position: absolute;
+    width: 20%;
+    left: 615px;
+    margin-top: 250px;
+    margin-right: 0px;
+    right: 600px;
+}
+.Hii{
+    font-weight: bolder;
+    font-size: 6.25rem;
+    font-family: Pacifico;
+    width: 20%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+     color: #e4dfe6;
+    
+    position: absolute;
+    margin-right: 0px;
+    margin-left: 0px;
+    left: 760px;
+    top: 1000px
+px
+;
+}    
+.Hii:hover{
+    font-size: 140px;
+
+}
+.f1{
+    margin-top: 50px;
+}

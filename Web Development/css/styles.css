@@ -1,0 +1,85 @@
+
+body
+{
+    text-align: center;
+    background-color:#666566;
+    font-family: 'Algerian',Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+hr{
+    background: #666566;
+    border-style: dotted none none none;
+    border-width: 10px;
+    border-color: grey;
+    
+    height:0px;
+    width: 10%;
+}
+h3{
+    text-align: center;
+    color: rgb(49, 63, 63);
+    font-size: 3vmax;
+}
+h3:hover{
+    text-align: center;
+    color: rgb(56, 187, 187);
+    size: 10px;
+}
+h2{
+ 
+    color: rgb(49, 63, 63);
+    size: 10px;
+}
+h1{
+    font-family: 'Sacramento';
+    font-size: 5rem;
+    border-left-width: 1px;
+    border-right-width: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 100px;
+    
+    color: rgb(31, 32, 32);
+    font: bolder;
+    text-decoration: calc();
+    float:right;
+}
+h1:hover{
+    color: rgb(88, 197, 197);
+    font: bolder;
+    text-decoration: calc();
+}
+
+table{
+    color: darkgray;
+    align-content: center;
+}
+
+ul{
+    color: darkgray;
+}
+img:hover{
+    background-color: black;
+    margin-left: 200px;
+}
+ul {
+    
+    padding: 20px;
+    font-size: 25px;
+  }
+  ol {
+      font-weight: bolder;
+    
+    padding: 20px;
+    font-size: 25px;
+  }
+
+  a{
+      text-decoration: fuchsia;
+      color: black;
+      font-size: 2vmax;
+  }
+a:hover{
+    color: grey;
+    font-weight: bolder;
+}
