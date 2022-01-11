@@ -1,0 +1,133 @@
+body{
+    min-width: 300px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+h1{
+    font-weight: bolder;
+    position: relative;
+    margin-top: 0%;
+    font-size: 600%;
+    padding-top: 90px;
+    color: #FFCDDD;
+    text-align: center;
+    font-family: "Sacramento";
+    margin-bottom: 40px;
+}
+
+h1:hover{
+    font-size: 800%;
+    color: black;
+    text-decoration: underline;
+}
+h2{
+    text-align: center;
+    font-family: Kanit;
+    font-size: 40px;
+    color: rgb(240, 79, 4);
+    font-weight: bolder;
+}
+h3{
+    text-align: center;
+}
+hr{
+    border: dotted;
+    border-top-width: o;
+    border-bottom-width: 11px;
+    border-color: #B762C1;
+   
+    border-top-width: 0ch;
+    width:10%;
+    
+}
+.me{
+    width: 20%;
+    position: relative;
+    margin-right: auto;
+    margin-left: auto;
+    bottom:550px;
+    left: 40%;
+
+    }
+    
+
+.Hii {
+        color:#A8ECE7;
+        font-weight: bolder;
+        font-size: 6.25rem;
+        font-family: Pacifico;
+        width: 20%;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        position: relative;
+        bottom: 600px;
+        
+}    
+.Hii:hover{
+    font-size: 140px;
+
+}
+.f1{
+    margin-top: 50px;
+}
+.about{
+    top: 40px;
+    width:100%;
+    position: relative;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+.hobb{
+    width:10%;
+    left: 630px;
+    position: relative;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+p{
+    color: rgb(103, 194, 130);
+    width:100%;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 30px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+.bg{
+    display: block;
+    position: fixed;
+}
+.intro{
+    height: 1600px;
+    background-color: #7900FF;
+}
+.abbg{
+    background-color: #548CFF;
+}
+.skills{
+    background-color: #93FFD8;
+}
+.hobby{
+    background-color: #CFFFDC;
+}
+.connect{
+    display: block;
+    background-color: #BAFFB4;
+}
+ic1{
+    width: 200px;
+    height: 200PX;
+    position: relative;
+    bottom:200px;
+    display: inline-block;
+}
